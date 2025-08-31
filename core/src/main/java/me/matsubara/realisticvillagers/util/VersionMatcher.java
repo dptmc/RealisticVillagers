@@ -5,6 +5,7 @@ import org.bukkit.Bukkit;
 import org.jetbrains.annotations.Nullable;
 
 public enum VersionMatcher {
+    v1_16("1.16.5"),
     v1_18("1.18.2"),
     v1_19("1.19.4"),
     v1_20_1("1.20.1"),

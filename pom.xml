@@ -18,6 +18,7 @@
     <description>Forget about those boring villagers and replace them with interactive humans!</description>
 
     <modules>
+        <module>v1_16</module>
         <module>v1_18</module>
         <module>v1_19</module>
         <module>v1_20_1</module>

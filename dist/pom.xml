@@ -64,6 +64,12 @@
             <artifactId>realisticvillagers-core</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
+        <!-- v1_16 -->
+        <dependency>
+            <groupId>me.matsubara</groupId>
+            <artifactId>realisticvillagers-v1_16</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
         <!-- v1_18 -->
         <dependency>
             <groupId>me.matsubara</groupId>
