@@ -16,6 +16,13 @@
         <spigot.version>1.16.5-R0.1-SNAPSHOT</spigot.version>
     </properties>
 
+    <pluginRepositories>
+        <pluginRepository>
+            <id>by1337-repo</id>
+            <url>https://repo.by1337.space/repository/maven-releases/</url>
+        </pluginRepository>
+    </pluginRepositories>
+	
     <build>
         <plugins>
             <plugin>
@@ -47,10 +54,6 @@
     </build>
 
     <repositories>
-        <pluginRepository>
-            <id>by1337-repo</id>
-            <url>https://repo.by1337.space/repository/maven-releases/</url>
-        </pluginRepository>
         <repository>
             <id>spigotmc-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
